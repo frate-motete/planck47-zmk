@@ -1,9 +1,0 @@
-file_format: "1"
-id: planck47
-name: Planck47
-type: shield
-url: https://github.com/frate-motete/planck47.git
-requires:
-  - nice_nano_v2
-features:
-  - keys

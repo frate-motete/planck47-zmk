@@ -1,6 +1,6 @@
 if SHIELD_PLANCK47
 
 config ZMK_KEYBOARD_NAME
-    default "Planck47"
+    default "planck47"
 
 endif
